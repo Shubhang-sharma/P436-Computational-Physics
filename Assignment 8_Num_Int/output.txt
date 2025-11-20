@@ -1,0 +1,10 @@
+Question-1 
+      Midpoint  Trapezoidal   Simpson 
+N = 10  3.619       3.6226       3.6202 
+N = 20  3.6199       3.6208       3.6202 
+N = 30  3.62       3.6205       3.6202 
+
+ Question-2 
+Integral via Monte Carlo Method= 0.5399
+ Question-3 
+Centre Of Mass = 1.5 units from the reference end
